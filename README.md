@@ -37,3 +37,40 @@ https://www.etsy.com/developers/documentation/getting_started/api_basics
 GAMING
 help you understand where to get items in game.
 https://github.com/deliton/eldenring-api
+
+# CAPSTONE || Software Development Specialization
+
+Using React.js to build out a UI for a Salt Lake City Downtown Bar Crawl. Users will be able to follow given path or create custom one.
+
+# MAIN FEATURES:
+
+- Users will be able to create an account/Login
+- They will be able to see location of bars
+- Create own bar trail
+- Create key to invite friends
+
+#ADDITIONAL FEATURES:
+
+- Users will be able to post comments on current location
+
+## Will Satify the following conditions
+
+**Front-End:**
+
+- Has 3-5 interactive features
+- Communicates with server
+- Has at least 5 components
+- Stores values on state
+- Uses values from state to display information and/or make requests
+- Includes custom styling
+
+**Server:**
+
+- Handles requests
+- Sends responses
+
+**Database:**
+
+- Tables contain data
+- Connects to server
+- Contains at least 1 one:many relationship between tables
