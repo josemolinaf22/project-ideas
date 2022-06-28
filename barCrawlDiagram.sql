@@ -6,7 +6,9 @@ CREATE TABLE "users" (
 CREATE TABLE "crawl" (
   "crawl_id" SERIAL PRIMARY KEY,
   "user_id" INTEGER,
-  "location" varchar(1000)
+  "location" varchar,
+  "location_2" varchar,
+  "location_3" varchar
 );
 
 CREATE TABLE "comments" (
